@@ -1,0 +1,39 @@
+- Ostatni nastroje
+	- Abra
+	- Vyfakturuj
+
+- přenesená danova povinnost
+- dodací list
+- proforma faktury
+- hlidani hranice obratu (pro stanuti se platcem DPH)
+- identifikace jestli klient videl fakturu
+- PDF faktura jako příloha emailu
+- počet číselných řad
+- emaily jako potvrzeni budou chodit primo od vasi adresy (misto info@cokoliv.cz)
+- integrace paypal, gopay
+- Rozlišení daňové uznatelnosti
+- Přenesená DPH a samovyměření
+- Vytěžení nákladů
+- Vytvoření hromadného příkazu k úhradě
+- upominka
+- parovani plateb s fakturami
+- pohled podle data vystaveni
+- Žebříčky nej dodavatelů/ odběratelů
+- Pohled na faktury a náklady podle štítku
+- Finanční plánování
+- Exporty do účetních programů
+- prubezny vypocet odvodu
+- zamykani zauctovanych dokladu
+- priznani k DPH
+- prodejky
+- napojeni na pokladnu
+- propojeni s bankovnimi ucty
+- štitkovani
+### kontakty
+- Hromadny import a export kontaktu
+- automaticka aktualizace fakturacnich udaju
+- Individualni splatnost, mena a jazyk faktury
+- automaticka kontrola DIC v databazi VIES
+- Detekce nespolehlivych platcu DPH
+- individualni texty emailu pro konktretni odberatele
+- klientsky portal s historii faktur
